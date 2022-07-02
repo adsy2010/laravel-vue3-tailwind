@@ -1,6 +1,10 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/laravel/compare/v9.1.10...9.x)
+## [Unreleased](https://github.com/laravel/laravel/compare/1.0...master)
+
+## [1.0](https://github.com/laravel/laravel/compare/v9.1.10...1.0) - 2022-07-02
+
+First release of laravel vue3 tailwind project
 
 ## [v9.1.10](https://github.com/laravel/laravel/compare/v9.1.9...v9.1.10) - 2022-06-07
 
