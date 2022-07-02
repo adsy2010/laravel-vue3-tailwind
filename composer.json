@@ -1,8 +1,8 @@
 {
-    "name": "laravel/laravel",
+    "name": "adsy2010/laravel-vue3-tailwind",
     "type": "project",
-    "description": "The Laravel Framework.",
-    "keywords": ["framework", "laravel"],
+    "description": "The Laravel Framework with InertiaJS, Vue3 and Tailwind.",
+    "keywords": ["framework", "laravel", "inertiajs", "vue3", "tailwind"],
     "license": "MIT",
     "require": {
         "php": "^8.0.2",
